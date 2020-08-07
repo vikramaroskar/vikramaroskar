@@ -2,7 +2,7 @@
 
 <p align="center">
  
-  <a href="https://twitter.com/intent/follow?screen_name=vikramaroskar&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
+  <a href="https://twitter.com/intent/follow?screen_name=vikramaroskar&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/vikramaroskar?label=%40vikramaroskar&style=social"></a>  •
   
 </p>
 

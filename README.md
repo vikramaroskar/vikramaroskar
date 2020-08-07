@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <p align="center">
+ ![Vikram Aroskar](https://raw.githubusercontent.com/vikramaroskar/vikramaroskar/master/assets/img/vikram.gif)
+ </p>
+
+<p align="center">
  
   <a href="https://twitter.com/intent/follow?screen_name=vikramaroskar&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/vikramaroskar?label=%40vikramaroskar&style=social"></a>  •
   

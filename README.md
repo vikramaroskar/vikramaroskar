@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
 ![Vikram Aroskar](https://raw.githubusercontent.com/vikramaroskar/vikramaroskar/master/assets/img/vikram.gif)
- </p>
 
 <p align="center">
  

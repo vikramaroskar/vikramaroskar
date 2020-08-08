@@ -9,11 +9,11 @@
  </p>
 
 
-- 🔭 I’m currently working on [androidapp]
+- 🔭 I’m currently working on [Androidapp] 
 - 🌱 I’m currently learning Flutter, NodeJS 
 - 💬 Ask me about anything. I like to discuss and collectively learn new things
-- 📫 How to reach me: [twitter]
-- :blue_heart: Read & like my blog: [blog]
+- 📫 How to reach me: [Twitter] [Linkedin]
+- :blue_heart: Read & like my blog: [Blog]
 - 😄 Pronouns: He/Him
 - :musical_note: Fun fact: I like to listen to music, especially Indian classical music
 
@@ -32,16 +32,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [androidapp]
+- 🔭 I’m currently working on [Androidapp]
 - 🌱 I’m currently learning Flutter, NodeJS 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [twitter]
+- 📫 How to reach me: [Twitter]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-[androidapp]: https://play.google.com/store/apps/details?id=com.taskmix.tasks
-[blog]: https://medium.com/@vikramaroskar
-[twitter]: https://twitter.com/vikramaroskar
+[Androidapp]: https://play.google.com/store/apps/details?id=com.taskmix.tasks
+[Blog]: https://medium.com/@vikramaroskar
+[Twitter]: https://twitter.com/vikramaroskar
+[Linkedin]: https://www.linkedin.com/in/vikram-aroskar-5907228/
 

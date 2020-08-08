@@ -6,8 +6,7 @@
  
   <a href="https://twitter.com/intent/follow?screen_name=vikramaroskar&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/vikramaroskar?label=%40vikramaroskar&style=social"></a>  •
   <a href="https://medium.com/@vikramaroskar">My BLOG</a>
-  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="vikram-aroskar-5907228"><a class="LI-simple-link" href='https://in.linkedin.com/in/vikram-aroskar-5907228?trk=profile-badge'>Vikram Aroskar</a></div>
-</p>
+ </p>
 
 
 - 🔭 I’m currently working on [androidapp]

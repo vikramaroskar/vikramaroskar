@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on [Androidapp] 
-- 🌱 I’m currently learning Flutter, NodeJS 
+- 🌱 I’m currently learning Flutter, Golang (With gokit), NodeJS (+TS)
 - 💬 Ask me about anything. I like to discuss and collectively learn new things
 - 📫 How to reach me: [Twitter] [Linkedin]
 - :blue_heart: Read & like my blog: [Blog]

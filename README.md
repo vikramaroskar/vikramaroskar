@@ -1,5 +1,9 @@
 ### Hi there, I'm Vikram -aka vikramaroskar 👋
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
 ![Vikram Aroskar](https://raw.githubusercontent.com/vikramaroskar/vikramaroskar/master/assets/img/vikram.gif)
 
 <p align="center">

@@ -13,7 +13,7 @@
  </p>
 
 
-- 🔭 I’m currently working on [Androidapp] 
+- 🔭 I’m currently working on [Learning Elixir] 
 - 🌱 I’m currently learning Flutter, Golang (With gokit), NodeJS (+TS)
 - 💬 Ask me about anything. I like to discuss and collectively learn new things
 - 📫 How to reach me: [Twitter] [Linkedin]
@@ -49,4 +49,5 @@ Here are some ideas to get you started:
 [Blog]: https://medium.com/@vikramaroskar
 [Twitter]: https://twitter.com/vikramaroskar
 [Linkedin]: https://www.linkedin.com/in/vikram-aroskar-5907228/
+[Learning Elixir]: https://elixir-lang.org/
 

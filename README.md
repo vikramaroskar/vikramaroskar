@@ -12,13 +12,9 @@
   <a href="https://medium.com/@vikramaroskar">My BLOG</a>
  </p>
 
-
-- 🔭 I’m currently working on [Learning Elixir] 
-- 🌱 I’m currently learning Flutter, Golang (With gokit), NodeJS (+TS)
 - 💬 Ask me about anything. I like to discuss and collectively learn new things
 - 📫 How to reach me: [Twitter] [Linkedin]
 - :blue_heart: Read & like my blog: [Blog]
-- 😄 Pronouns: He/Him
 - :musical_note: Fun fact: I like to listen to music, especially Indian classical music
 
 
